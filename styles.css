@@ -167,6 +167,7 @@ main #main-container .box2 img {
     align-self: flex-end;
     font-size: 18px;
     font-family: cursive;
+    margin-right: 30px;
 }
 .card5 img{
     height: 200px;
